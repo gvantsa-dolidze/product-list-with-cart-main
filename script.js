@@ -99,5 +99,3 @@ const products = [
     price: 6.5,
   },
 ];
-
-console.log(products);
